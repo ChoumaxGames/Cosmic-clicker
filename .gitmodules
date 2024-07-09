@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ChoumaxGames/cosmic-clicker-frontend
+[submodule "API"]
+	path = API
+	url = https://github.com/ChoumaxGames/cosmic-clicker-api
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ChoumaxGames/cosmic-clicker-backend
