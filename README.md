@@ -11,7 +11,7 @@
 [FR] Ce projet est un regroupement de plusieurs sous-projets qui ont pour but de créer un jeu vidéo sur mobile.\
 N'hésitez pas à regarder chaque sous-projet pour plus d'informations.
 
-[EN] This project is a grouping of several sub-projects that aim to create a mobile game.
+[EN] This project is a grouping of several sub-projects that aim to create a mobile game.\
 Don't hesitate to look at each sub-project for more information.
 
 
